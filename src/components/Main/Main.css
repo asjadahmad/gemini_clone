@@ -35,6 +35,13 @@ body {
     padding: 20px;
 }
 
+.suggestion-text {
+    font-size: 24px;
+    color: #c4c7c5;
+    font-weight: 300;
+    padding: 0px 20px;
+}
+
 .main .greet span {
     background: -webkit-linear-gradient(16deg, #4b90ff, #ff5546);
     -webkit-background-clip: text;
@@ -210,12 +217,13 @@ body {
     0% {
         background-position: -800px 0;
     }
+
     100% {
         background-position: 800px 0;
     }
 }
 
-.result-data > p {
+.result-data>p {
     font-size: 17px;
     font-weight: 300;
     line-height: 1.8;
@@ -284,7 +292,7 @@ body {
         display: none;
     }
 
-    .result-data > p {
+    .result-data>p {
         margin-bottom: 30vh;
     }
 }
