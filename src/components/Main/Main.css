@@ -95,7 +95,7 @@ body {
 .main-bottom {
     position: fixed;
     bottom: 0;
-    padding: 10px 20px 0 20px;
+    padding: 10px 20px 30px 20px;
     margin: auto;
     background-color: white;
     box-shadow: #ffffff 0 -20px 50px;
@@ -148,7 +148,7 @@ body {
     color: #585858;
 }
 
-.icon-container button {
+.footer-btn {
     padding: 10px;
     background: none;
     border: none;
@@ -160,7 +160,7 @@ body {
     place-items: center;
 }
 
-.icon-container button:hover {
+.footer-btn:hover {
     background-color: #e8eaed;
 }
 
