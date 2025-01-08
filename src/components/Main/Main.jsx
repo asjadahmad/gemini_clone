@@ -39,7 +39,7 @@ const Main = () => {
         <main className="main">
             <nav className="nav">
                 <p>Gemini</p>
-                {/* <img src={assets.user_icon} alt="" /> */}
+                <img src={assets.user_icon} alt="" />
             </nav>
             <div className="main-container">
 
